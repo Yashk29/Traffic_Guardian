@@ -1,8 +1,3 @@
-# Traffic_Guardian
-Here’s a `README.md` for your **Traffic Guardian** project, including your role in object detection using the YOLO model:
-
----
-
 # Traffic Guardian
 
 The **Traffic Guardian** project aims to improve road safety by detecting traffic violations and objects in real time using object detection techniques. The system utilizes the **YOLO (You Only Look Once)** model for detecting various objects like vehicles, pedestrians, and traffic signals, with the goal of monitoring and alerting about potential violations.
